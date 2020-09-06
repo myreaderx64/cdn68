@@ -1,0 +1,1057 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# website: http://ogp.me/ns/website#">
+	<head>
+		<meta charset="UTF-8">
+		<!-- Speed of this site is optimised by WP Performance Score Booster plugin v1.9.2.2 - https://dipakgajjar.com/wp-performance-score-booster/ -->
+
+	<!-- This site is optimized with the Yoast SEO plugin v14.9 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Ian Ozsvald - Entrepreneurial Geekiness</title>
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://ianozsvald.com/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Ian Ozsvald - Entrepreneurial Geekiness" />
+	<meta property="og:url" content="https://ianozsvald.com/" />
+	<meta property="og:site_name" content="Entrepreneurial Geekiness" />
+	<meta property="article:modified_time" content="2019-02-08T10:06:09+00:00" />
+	<meta property="og:image" content="https://ianozsvald.com/wp-content/uploads/2018/02/btx-placeholder-03-1.jpg" />
+	<meta property="og:image:width" content="1920" />
+	<meta property="og:image:height" content="1280" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://ianozsvald.com/#website","url":"https://ianozsvald.com/","name":"Entrepreneurial Geekiness","description":"Data Science, PyData London, Springer Spaniels, Coffee","potentialAction":[{"@type":"SearchAction","target":"https://ianozsvald.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://ianozsvald.com/#primaryimage","inLanguage":"en-US","url":"https://ianozsvald.com/wp-content/uploads/2018/02/btx-placeholder-03-1.jpg","width":1920,"height":1280,"caption":"Default Placeholder Attachment 3"},{"@type":"WebPage","@id":"https://ianozsvald.com/#webpage","url":"https://ianozsvald.com/","name":"Ian Ozsvald - Entrepreneurial Geekiness","isPartOf":{"@id":"https://ianozsvald.com/#website"},"primaryImageOfPage":{"@id":"https://ianozsvald.com/#primaryimage"},"datePublished":"2018-02-14T05:12:33+00:00","dateModified":"2019-02-08T10:06:09+00:00","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://ianozsvald.com/"]}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Entrepreneurial Geekiness &raquo; Feed" href="https://ianozsvald.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Entrepreneurial Geekiness &raquo; Comments Feed" href="https://ianozsvald.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/ianozsvald.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://ianozsvald.com/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='expanding-archives-css'  href='https://ianozsvald.com/wp-content/plugins/expanding-archives/assets/css/expanding-archives.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mediaelement-css'  href='https://ianozsvald.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='https://ianozsvald.com/wp-includes/js/mediaelement/wp-mediaelement.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bateaux-css'  href='https://ianozsvald.com/wp-content/themes/bateaux/dist/css/main.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bateaux-custom-css'  href='//ianozsvald.com/wp-content/uploads/style-custom.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bateaux-google-fonts-css'  href='//fonts.googleapis.com/css?family=Archivo%3A400%2C400italic%2C700%2C700italic%7CMerriweather%3A400%2C400italic%2C700%2C700italic&#038;subset=cyrillic-ext%2Ccyrillic%2Clatin-ext%2Clatin%2Cvietnamese&#038;ver=5.5.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://ianozsvald.com/wp-includes/js/jquery/jquery.js' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://ianozsvald.com/wp-content/plugins/wp-google-analytics/wp-google-analytics.js' id='wp-google-analytics-js'></script>
+<link rel="https://api.w.org/" href="https://ianozsvald.com/wp-json/" /><link rel="alternate" type="application/json" href="https://ianozsvald.com/wp-json/wp/v2/pages/2866" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://ianozsvald.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://ianozsvald.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.1" />
+<link rel='shortlink' href='https://ianozsvald.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://ianozsvald.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fianozsvald.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://ianozsvald.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fianozsvald.com%2F&#038;format=xml" />
+
+
+<!-- Open Graph data is managed by Alex MacArthur's Complete Open Graph plugin. (v3.4.5) -->
+<!-- https://wordpress.org/plugins/complete-open-graph/ -->
+<meta property='og:site_name' content='Entrepreneurial Geekiness' />
+<meta property='og:url' content='https://ianozsvald.com/' />
+<meta property='og:locale' content='en_US' />
+<meta property='og:description' content='Data Science, PyData London, Springer Spaniels, Coffee' />
+<meta property='og:title' content='Ian Ozsvald' />
+<meta property='og:type' content='website' />
+<meta property='og:image' content='https://ianozsvald.com/wp-content/uploads/2018/02/btx-placeholder-03-1.jpg' />
+<meta property='og:image:width' content='1200' />
+<meta property='og:image:height' content='800' />
+<meta name='twitter:card' content='summary' />
+<meta name='twitter:title' content='Ian Ozsvald' />
+<meta name='twitter:image' content='https://ianozsvald.com/wp-content/uploads/2018/02/btx-placeholder-03-1.jpg' />
+<meta name='twitter:description' content='Data Science, PyData London, Springer Spaniels, Coffee' />
+<!-- End Complete Open Graph. | 0.0013909339904785s -->
+
+<!-- Start Fluid Video Embeds Style Tag -->
+<style type="text/css">
+/* Fluid Video Embeds */
+.fve-video-wrapper {
+    position: relative;
+    overflow: hidden;
+    height: 0;
+    background-color: transparent;
+    padding-bottom: 56.25%;
+    margin: 0.5em 0;
+}
+.fve-video-wrapper iframe,
+.fve-video-wrapper object,
+.fve-video-wrapper embed {
+    position: absolute;
+    display: block;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.fve-video-wrapper a.hyperlink-image {
+    position: relative;
+    display: none;
+}
+.fve-video-wrapper a.hyperlink-image img {
+    position: relative;
+    z-index: 2;
+    width: 100%;
+}
+.fve-video-wrapper a.hyperlink-image .fve-play-button {
+    position: absolute;
+    left: 35%;
+    top: 35%;
+    right: 35%;
+    bottom: 35%;
+    z-index: 3;
+    background-color: rgba(40, 40, 40, 0.75);
+    background-size: 100% 100%;
+    border-radius: 10px;
+}
+.fve-video-wrapper a.hyperlink-image:hover .fve-play-button {
+    background-color: rgba(0, 0, 0, 0.85);
+}
+.fve-max-width-wrapper{
+    max-width: 720px;
+    margin-left: auto;
+    margin-right: auto;
+}
+@media screen and (max-device-width: 768px) {
+    .fve-video-wrapper iframe, .fve-video-wrapper object, .fve-video-wrapper embed { display: none; }
+    .fve-video-wrapper a.hyperlink-image { display: block; }
+}
+</style>
+<!-- End Fluid Video Embeds Style Tag -->
+<link rel="icon" type="image/x-icon" href="/" /><meta name="viewport" content="width=device-width, initial-scale=1.0"><!--[if lte IE 9]><style type="text/css">.btx-opacity1 { opacity: 1; }</style><![endif]-->		<style type="text/css" id="wp-custom-css">
+			.btx-footer {
+    background-color: #292f33 !important;
+}
+
+/* speaker deck */
+
+.container {
+    background-color: red;
+    width: 100%;
+    padding-top: 100%; /* 1:1 Aspect Ratio */
+    position: relative; /* If you want text inside of it */
+}
+
+/* If you want text inside of the container */
+.iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+iframe {
+     max-width: 100%;
+}
+
+/* book hover & scale */
+
+#media_image-5 a .mybook,
+#media_image-3 a .mybook,
+#media_image-4 a .mybook,
+#media_image-10 a .mybook,
+.mylogo{
+    border: 1px solid #e5e5e5;
+    transition: all .2s ease-in-out;
+}
+
+#media_image-5 a:hover .mybook,
+#media_image-3 a:hover .mybook,
+#media_image-4 a:hover .mybook,
+#media_image-10 a:hover .mybook{
+    box-shadow: 10px 10px 10px #e1e1e1;
+    transform: scale(1.05) rotate(5deg);
+    transition: all 0.3s ease-in-out 0s;
+}
+
+.mylogo:hover{
+    transform: scale(1.05) rotate(5deg);
+    transition: all 0.3s ease-in-out 0s;
+}
+
+/* hero button rollover */
+
+.btx-button--fill.btx-button-hover--inverse>.btnx:hover, .btx-button.btx-button--border.btx-button-hover--brand>.btnx:hover {
+    background-color: #bb4c9e !important;
+    color: white;
+}
+
+#home-icons .btx-feature-title { 
+    margin-bottom: 5px;
+}
+#home-icons a:hover { 
+    transform: scale(1.15);
+    transition: all 0.3s ease-in-out 0s;
+}
+
+
+/* sidebar years */
+
+.expanding-archives-section {
+    margin-bottom: 30px;
+    border-color: #e5e5e5;
+    border-bottom: 1px solid;
+}
+.expanding-archives-title {
+    font-family: 'Merriweather', sans-serif;
+    font-weight: 700;
+    display: inline-block;
+    padding-bottom: 20px;
+    line-height: inherit;
+    margin-bottom: -1px;
+    border-bottom: 1px solid;
+    letter-spacing: .1em;
+    color: #303030;
+    background-color: transparent;
+}
+.expanding-archives-title a {
+    padding: 0;
+}
+
+/* sort blogroll homepage */
+
+.btx-filter-list {
+    margin: 0 !important;
+    padding: 0 !important;
+    margin-top: 9px !important;
+}
+
+.btx-entry-body-content {
+    padding: 40px;
+}
+
+@media screen and (max-width: 400px) {
+    .btx-filter-list {
+        margin-top: 36px !important;
+    }
+    .btx-entry-body-content {
+        padding: 20px;
+    }
+}
+
+.btx-filter-list a {
+    max-width: 400px;
+    padding: 12px 15px 11px 15px !important;
+    border-radius: 4px;
+    margin-right: 6px !important;
+    font-size: 14px;
+    color: #303030;
+    background-color: #ffffff;
+    border-color: #e5e5e5;
+    height: 40px;
+    line-height: 1.78571;
+    border-width: 1px;
+    border-style: solid;
+    font-family: 'Archivo', sans-serif;
+    text-transform: capitalize;
+}
+
+.btx-filter-list .active {
+     border: 1px solid #3e6bb6;
+}
+.btx-filter-list a.active {
+    color: #3e6bb6;
+}
+
+.btx-filter-list a:hover {
+    background-color: #bb4c9e;
+    color: white;
+    border: 1px solid #bb4c9e;
+}
+
+/* about page */
+
+@media screen and (max-width: 767px) {
+    #post-3420 > div > div > div > div.btx-section-wrapper > div > div > div.btx-col-9 > div.btx-item.js-item-feature.btx-feature.btx-feature--top.about-icons.btx-center-align > div > div > div {
+        width: 50% !important;
+    }
+}
+
+/* post formatting */
+
+pre {
+    background-color: white;
+}
+
+.btx-post .btx-post-title {
+    color: #555;
+}
+
+.btx-list--medium.btx-blog--list .btx-entry-body,
+.btx-archive--list.btx-list--medium .btx-entry-body{
+    width: 100% !important;
+}
+
+.btx-entry-excerpt a {
+    color: #3e6bb6;
+    padding: 1px 2px 0px;
+    border-bottom: 1px solid #d0e1ff;
+}
+
+.btx-entry-excerpt a:hover {
+    color: #b50084;
+    background-color: #ffeffa;
+    border-bottom: 1px solid transparent;
+}
+
+.btx-entry-body p {
+    padding: 5px 0;
+}
+
+/* quotes */
+
+.btx-testimonial-item-inner {
+    padding: 40px 5%;
+}
+
+blockquote {
+    margin: 20px 10px;
+    line-height: 1.5;
+    font-size: 20px;
+}
+
+/* page body */
+
+.btx-section-wrapper {
+    padding-top: 64px;
+}
+		</style>
+			</head>
+
+	
+
+<body class="home page-template-default page page-id-2866 btx-layout btx-layout--wide btx-layout-responsive btx-layout--topnav btx-layout--topnav-inline btx-layout--fixednav" data-scheme="light" data-layout="wide" data-arrow_style="ln-arrow" data-arrow_background="square">
+	
+	<div class="btx-wrapper btx-p-bg-bg ">
+
+		
+			
+			<header class="btx-header" data-transparent="" data-height="70">
+				
+															
+<nav class="btx-navbar btx-navbar--inline btx-light-scheme btx-highlight-fade btx-navbar-dropdown-dark-scheme btx-navbar--inline--outer btx-navbar--small" data-height="70" data-style="inline" data-fixed="true" data-height_fixed="60" data-autohide="true" data-transition="custom-change" data-transition_point="1">
+	<div class="btx-container">
+		<div class="btx-navbar-content-wrapper">
+			<ul id="menu-main" class="btx-navbar-nav btx-menu btx-menu-inline-left"><li  id="menu-item-3414" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3414"><a href="https://ianozsvald.com/coaching/">Coaching</a></li><li  id="menu-item-3415" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3415"><a href="https://ianozsvald.com/training/">Training</a></li><li  id="menu-item-3416" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3416"><a href="https://ianozsvald.com/data-science-jobs/">Data Science Jobs</a></li></ul><ul class="btx-navbar-nav btx-menu btx-menu-inline-right"><li  id="menu-item-3445" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3445"><a href="https://ianozsvald.com/products/">Products</a></li><li  id="menu-item-3444" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3444"><a href="https://ianozsvald.com/consulting/">Consulting</a></li><li  id="menu-item-3424" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3424"><a href="https://ianozsvald.com/about-me/">About Ian</a></li></ul>
+			
+			<div class="btx-navbar-header">
+				<a class="btx-navbar-brand" href="https://ianozsvald.com">
+
+											<span class="btx-navbar-logo btx-navbar-logo--text">Ian Ozsvald</span>
+					
+									</a>
+			</div>
+		</div>
+	</div>
+</nav>
+										<div class="btx-header-widgets btx-left-alignment btx-light-scheme">
+						<div class="btx-header-widgets-content">
+							<div class="btx-container">
+								<div class="btx-row">
+
+																			<div class="btx-header-widgets-column btx-p-border-border btx-col-3">
+																					</div>
+																			<div class="btx-header-widgets-column btx-p-border-border btx-col-3">
+																					</div>
+																			<div class="btx-header-widgets-column btx-p-border-border btx-col-3">
+																					</div>
+																			<div class="btx-header-widgets-column btx-p-border-border btx-col-3">
+																					</div>
+																	</div>
+							</div>
+						</div>
+					</div>
+													
+<nav class="btx-navbar--mobile btx-navbar--mobile--full btx-navbar--minimal btx-navbar--minimal--full btx-light-scheme" data-height="60" data-fixed="true" data-autohide="true" data-transition="custom-change" data-transition_point="1">
+	<div class="btx-container">
+		<div class="btx-navbar-content-wrapper">
+			<div class="btx-navbar-header">
+				<a class="btx-navbar-brand" href="https://ianozsvald.com">
+
+					
+													<span class="btx-navbar-logo btx-navbar-logo--text">Ian Ozsvald</span>
+						
+					
+									</a>
+			</div>
+
+			
+							<a class="btx-collapsed-button" href="#" data-target=".btx-collapsed-menu">
+					<span class="btx-lines"></span>
+				</a>
+									<div class="btx-collapsed-menu btx-collapsed-menu--full btx-p-bg-bg">
+						<div class="btx-collapsed-menu-inner">
+							<ul id="menu-main-1" class="btx-navbar-nav btx-menu"><li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3414"><a href="https://ianozsvald.com/coaching/">Coaching</a></li><li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3415"><a href="https://ianozsvald.com/training/">Training</a></li><li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3416"><a href="https://ianozsvald.com/data-science-jobs/">Data Science Jobs</a></li><li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3445"><a href="https://ianozsvald.com/products/">Products</a></li><li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3444"><a href="https://ianozsvald.com/consulting/">Consulting</a></li><li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3424"><a href="https://ianozsvald.com/about-me/">About Ian</a></li></ul>						</div>
+					</div>
+									</div>
+	</div>
+</nav>
+							</header>
+
+		
+	
+    
+<main class="btx-content btx-content--with-header" id="main">
+	<article id="post-2866" class="btx-content-wrapper post-2866 page type-page status-publish has-post-thumbnail hentry" >
+
+					
+<header class="btx-content-header js-dynamic-navbar btx-page-hero btx-page-hero--stacked btx-mobile-hidden"  data-role="header">
+	<div class="btx-background" data-type="image" data-parallaxspeed="3" data-contentfade="" data-mobileparallax=""><div class="btx-background-wrapper"><div class="btx-background-inner" style="background-image:url(https://ianozsvald.com/wp-content/uploads/2018/04/bg0000.jpg); background-size:cover; background-position:center top; background-repeat:repeat;"></div></div></div>	<div class="btx-page-hero-inner btx-container">
+		<div class="btx-page-hero-wrapper btx-left-align">
+			<div class="btx-page-hero-content btx-middle-vertical" style="padding-top:7%; padding-bottom:7%;">
+				<div class="btx-page-hero-content-wrapper btx-left-align" style="max-width:50%;">
+
+					
+											<div class="btx-page-hero-body">
+
+							
+															<div class="btx-page-hero-body-title">
+																			<h1 class="btx-page-hero-title btx-s-text-color btx-secondary-font" style="letter-spacing:2px;"><span class="font-style" style="font-size: 28px;"><span style="color: rgb(48, 48, 48);">Entrepreneurial Geekiness</span><br></span></h1>
+																										</div>
+							
+															<div class="btx-page-hero-subtitle btx-page-hero-subtitle--bottom btx-custom_a-font"><span class="font-style" style="font-size: 16px;"><span style="color: rgb(48, 48, 48);">Ian is a London-based independent Chief Data Scientist who coaches teams, teaches and creates data products.&nbsp;<span style="font-weight: bold;"><a href="/about-me">More about Ian here.</a></span><a href="http://about"></a></span><br></span></div>
+							
+							
+													</div>
+									</div>
+			</div>
+		</div>
+	</div>
+</header>
+		
+		
+		<div class="btx-main btx-main--single">
+			<div class="btx-main-wrapper">
+														
+<div class="btx-section js-dynamic-navbar btx-p-border-border btx-pc-hidden btx-tablet-landscape-hidden btx-tablet-hidden" id="mobile-hero" style="margin-top:0px; margin-bottom:0px;" data-index="0">
+	<div class="btx-background" data-type="image" data-parallaxspeed="0" data-contentfade="" data-mobileparallax=""><div class="btx-background-overlay btx-p-bg-bg" style="background-color:#bce1fc; opacity:0.9;"></div></div>	<div class="btx-section-wrapper" style="padding-top:30px; padding-bottom:0px;">
+					<div class="btx-container--fullwidth">
+							<div class="btx-row btx-row--main">
+									<div class="btx-col-12">
+<div class="btx-item js-item-text btx-text btx-center-align btx-secondary-font" style="padding-top:0px; padding-right:20px; padding-left:20px; padding-bottom:0px; margin-top:0px; margin-bottom:0px;">
+	<div class="btx-row" style="margin:0 -30px;">
+
+					<div class="btx-text-content btx-col-12" style="padding:0 30px;">
+				<div class="btx-text-content-inner">
+											<span class="font-style" style="font-size: 22px;"><span style="color: rgb(48, 48, 48);">Entrepreneurial Geekiness</span><br></span>									</div>
+			</div>
+		
+	</div>
+</div>
+
+<div class="btx-item js-item-text btx-text btx-center-align btx-primary-font" style="padding-right:24px; padding-left:24px;">
+	<div class="btx-row" style="margin:0 -30px;">
+
+					<div class="btx-text-content btx-col-12" style="padding:0 30px;">
+				<div class="btx-text-content-inner">
+											<span class="font-style" style="font-size: 16px;"><span style="color: rgb(48, 48, 48);">Ian is a London-based independent Chief Data Scientist who coaches teams, teaches and creates data products.</span><br></span>									</div>
+			</div>
+		
+	</div>
+</div>
+
+<div class="btx-item js-item-button btx-button btx-button--border btx-center-align btx-button-size--small btx-button-hover--brand btx-button-color--brand" style="margin-bottom:40px;">
+			<a href="/about-me" target="_self" class="btnx" style="border-radius:5px; border-width:1px;">
+	
+		
+							More about Ian				<i class="twf twf-ln-arrow-right btx-icon--after"></i>
+			
+			</a>
+</div>
+
+<div class="btx-item js-item-image btx-image btx-center-align">
+	<div class="btx-image-container">
+		<div class="btx-media-wrapper" ><div class="btx-media-wrapper-inner"><img src="https://ianozsvald.com/wp-content/uploads/2018/02/head-1-e1520425118873.jpg" alt=""  width="796" height="494" srcset="https://ianozsvald.com/wp-content/uploads/2018/02/head-1-e1520425118873.jpg 796w, https://ianozsvald.com/wp-content/uploads/2018/02/head-1-1280x601.jpg 1280w, https://ianozsvald.com/wp-content/uploads/2018/02/head-1-1024x481.jpg 1024w, https://ianozsvald.com/wp-content/uploads/2018/02/head-1-e1520425118873-768x477.jpg 768w, https://ianozsvald.com/wp-content/uploads/2018/02/head-1-e1520425118873-512x318.jpg 512w, https://ianozsvald.com/wp-content/uploads/2018/02/head-1-e1520425118873-300x186.jpg 300w" sizes="(max-width:796px) 100vw, 796px" /></div></div>	</div>
+</div>
+</div>
+							</div>
+							</div>
+			</div>
+</div>
+														
+<div class="btx-section js-dynamic-navbar btx-p-border-border" id="home-icons" data-index="1">
+	<div class="btx-background" data-type="image" data-parallaxspeed="2" data-contentfade="" data-mobileparallax=""><div class="btx-background-overlay btx-p-bg-bg" style="background-color:#ffffff; opacity:1;"></div></div>	<div class="btx-section-wrapper" style="padding-top:50px; padding-bottom:50px;">
+					<div class="btx-container">
+							<div class="btx-row btx-row--main">
+									<div class="btx-col-12">
+<div class="btx-item js-item-feature btx-feature btx-feature--top btx-center-align" >
+	<div class="btx-feature-content">
+
+					<div class="btx-row" style="margin:0 -15px;">
+																														<div class="btx-feature-item btx-p-border-border btx-col-1-5 anmt-item anmt-zoomout stagger with-image" style="padding:0 15px;">
+						<div class="btx-feature-item-inner">
+
+															<div class="btx-feature-media">
+																		<div class="btx-media-wrapper" style="max-width:110%;"><a class="btx-media-wrapper-inner" href="/coaching" target="_self"><img src="https://ianozsvald.com/wp-content/uploads/2018/03/icons8_User_Account_100px.png" alt=""  width="100" height="100" srcset="https://ianozsvald.com/wp-content/uploads/2018/03/icons8_User_Account_100px.png 100w" sizes="(max-width:767px) 100vw, (max-width:1100px) 25vw, 20vw" /></a></div>								</div>
+							
+							
+															<div class="btx-feature-body">
+
+																			<div class="btx-feature-title btx-s-text-color btx-primary-font" style="text-transform:uppercase; letter-spacing:1px;"><span class="font-style" style="font-size: 14px;">
+                  <span style="color: rgb(34, 34, 34);">
+                  Coaching<br></span></span></div>
+									
+									
+									
+								</div>
+																				</div>
+					</div>
+																														<div class="btx-feature-item btx-p-border-border btx-col-1-5 anmt-item anmt-zoomout stagger with-image" style="padding:0 15px;">
+						<div class="btx-feature-item-inner">
+
+															<div class="btx-feature-media">
+																		<div class="btx-media-wrapper" style="max-width:110%;"><a class="btx-media-wrapper-inner" href="/training" target="_self"><img src="https://ianozsvald.com/wp-content/uploads/2018/03/icons8_Classroom_100px_1-1.png" alt=""  width="100" height="100" srcset="https://ianozsvald.com/wp-content/uploads/2018/03/icons8_Classroom_100px_1-1.png 100w" sizes="(max-width:767px) 100vw, (max-width:1100px) 25vw, 20vw" /></a></div>								</div>
+							
+							
+															<div class="btx-feature-body">
+
+																			<div class="btx-feature-title btx-s-text-color btx-primary-font" style="text-transform:uppercase; letter-spacing:1px;"><span class="font-style" style="font-size: 14px;"><font color="#222222">Training</font></span></div>
+									
+									
+									
+								</div>
+																				</div>
+					</div>
+																														<div class="btx-feature-item btx-p-border-border btx-col-1-5 anmt-item anmt-zoomout stagger with-image" style="padding:0 15px;">
+						<div class="btx-feature-item-inner">
+
+															<div class="btx-feature-media">
+																		<div class="btx-media-wrapper" ><a class="btx-media-wrapper-inner" href="/data-science-jobs" target="_self"><img src="https://ianozsvald.com/wp-content/uploads/2018/03/icons8_Resume_100px.png" alt=""  width="100" height="100" srcset="https://ianozsvald.com/wp-content/uploads/2018/03/icons8_Resume_100px.png 100w" sizes="(max-width:767px) 100vw, (max-width:1100px) 25vw, 20vw" /></a></div>								</div>
+							
+							
+															<div class="btx-feature-body">
+
+																			<div class="btx-feature-title btx-s-text-color btx-primary-font" style="text-transform:uppercase; letter-spacing:1px;"><span class="font-style" style="font-size: 14px;"><span style="color: rgb(34, 34, 34);">Jobs</span></span></div>
+									
+									
+									
+								</div>
+																				</div>
+					</div>
+																														<div class="btx-feature-item btx-p-border-border btx-col-1-5 anmt-item anmt-zoomout stagger with-image" style="padding:0 15px;">
+						<div class="btx-feature-item-inner">
+
+															<div class="btx-feature-media">
+																		<div class="btx-media-wrapper" ><a class="btx-media-wrapper-inner" href="/products" target="_self"><img src="https://ianozsvald.com/wp-content/uploads/2018/03/icons8_Open_Box_100px.png" alt=""  width="100" height="100" srcset="https://ianozsvald.com/wp-content/uploads/2018/03/icons8_Open_Box_100px.png 100w" sizes="(max-width:767px) 100vw, (max-width:1100px) 25vw, 20vw" /></a></div>								</div>
+							
+							
+															<div class="btx-feature-body">
+
+																			<div class="btx-feature-title btx-s-text-color btx-primary-font" style="text-transform:uppercase; letter-spacing:1px;"><span class="font-style" style="font-size: 14px;">
+                  <span style="color: rgb(34, 34, 34);">
+                  Products</span><br>
+                </span></div>
+									
+									
+									
+								</div>
+																				</div>
+					</div>
+																														<div class="btx-feature-item btx-p-border-border btx-col-1-5 anmt-item anmt-zoomout stagger with-image" style="padding:0 15px;">
+						<div class="btx-feature-item-inner">
+
+															<div class="btx-feature-media">
+																		<div class="btx-media-wrapper" ><a class="btx-media-wrapper-inner" href="/consulting" target="_self"><img src="https://ianozsvald.com/wp-content/uploads/2018/03/icons8_Meeting_100px.png" alt=""  width="100" height="100" srcset="https://ianozsvald.com/wp-content/uploads/2018/03/icons8_Meeting_100px.png 100w" sizes="(max-width:767px) 100vw, (max-width:1100px) 25vw, 20vw" /></a></div>								</div>
+							
+							
+															<div class="btx-feature-body">
+
+																			<div class="btx-feature-title btx-s-text-color btx-primary-font" style="text-transform:uppercase; letter-spacing:1px;"><span class="font-style" style="font-size: 14px;">
+                  <span style="color: rgb(34, 34, 34);">
+                  Consulting<br></span>
+                </span></div>
+									
+									
+									
+								</div>
+																				</div>
+					</div>
+							</div>
+			</div>
+</div>
+</div>
+							</div>
+							</div>
+			</div>
+</div>
+														
+<div class="btx-section js-dynamic-navbar btx-p-border-border" data-index="2">
+	<div class="btx-background" data-type="image" data-parallaxspeed="2" data-contentfade="" data-mobileparallax=""><div class="btx-background-overlay btx-p-bg-bg" style="background-color:#f5f5f5; opacity:1;"></div></div>	<div class="btx-section-wrapper" style="padding-top:3%; padding-bottom:100px;">
+					<div class="btx-container">
+							<div class="btx-row btx-row--main">
+									<div class="btx-col-9">
+
+	<div class="btx-item js-item-blog btx-blog btx-blog--list btx-left-align btx-list--no-media" >
+		
+		
+		<div class="btx-blog-content"  data-filter_sorting="char_asc">
+												
+<article class="btx-entry btx-entry--standard post-3885 post type-post status-publish format-standard hentry category-high-performance-python-book category-pydata category-python" style="margin-bottom:20px;" data-filter="high performance python book, pydata, python">
+	<div class="btx-entry-inner " style="background-color:rgba(255,255,255,1);">
+				
+					<div class="btx-entry-body" >
+				<div class="btx-entry-body-inner">
+
+					<div class="btx-entry-body-wrapper">
+
+						
+						<div class="btx-entry-body-content">
+							
+																	<h4 class="btx-entry-title btx-s-text-color btx-secondary-font" style="font-size:24px; letter-spacing:0.1em;">
+										<a href="https://ianozsvald.com/2020/07/24/making-pandas-fly-at-europython-2020/">&#8220;Making Pandas Fly&#8221; at EuroPython 2020</a>
+									</h4>
+								
+																	<div class="btx-entry-meta btx-s-text-color btx-s-text-color btx-primary-font">
+										
+										
+																					<span class="btx-entry-category btx-s-text-color"><a href="https://ianozsvald.com/category/high-performance-python-book/" rel="category tag">High Performance Python Book</a>,&nbsp;<a href="https://ianozsvald.com/category/pydata/" rel="category tag">pydata</a>,&nbsp;<a href="https://ianozsvald.com/category/python/" rel="category tag">Python</a></span>
+										
+																					<span class="btx-entry-date">
+																									July 24, 2020																							</span>
+																			</div>
+								
+																																																<div class="btx-entry-excerpt"><p>I&#8217;ve had a chance to return to talking about High Performance Python at EuroPython 2020 after my first tutorial on this topic back in 2011 in Florence. Today I spoke on <a href="https://speakerdeck.com/ianozsvald/making-pandas-fly-europython-2020">Making Pandas Fly</a> with a focus on making Pandas run faster. This covered:</p>
+<ul>
+<li>Categories and RAM-saving datatypes to make 100-500x speed-ups (well, some of the time) including <a href="https://github.com/ianozsvald/dtype_diet/">dtype_diet</a></li>
+<li>Dropping to NumPy to make things potentially 10x faster (thanks James Powell and his <a href="https://github.com/ianozsvald/callgraph_james_powell">callgraph</a> code)</li>
+<li>Numba for compilation (another 10x!)</li>
+<li>Dask for parallelisation (2-8x!)</li>
+<li>and taking a view on Modin &amp; Vaex</li>
+</ul>
+<p>We might ask &#8220;why do this&#8221; and my answer is &#8220;let&#8217;s go faster using the tools we already know how to use&#8221;. Specifically &#8211; without investing time learning a new tool (e.g. Intel SDC, Vaex, Modin, Dask, Spark and more) we can extend our ability to work with larger datasets without leaving the comfort of Pandas so you can get to your answers quicker. This message went down well:<a href="https://ianozsvald.com/2020/07/24/making-pandas-fly-at-europython-2020/europython2020_feedback/" rel="attachment wp-att-3891"><img  loading="lazy"  style="display:none"  class="crazy_lazy wp-image-3891 aligncenter" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="   data-src="https://ianozsvald.com/wp-content/uploads/2020/07/europython2020_feedback.png"  alt="Feedback from EuroPython 2020" width="628" height="234" srcset="https://ianozsvald.com/wp-content/uploads/2020/07/europython2020_feedback.png 1212w, https://ianozsvald.com/wp-content/uploads/2020/07/europython2020_feedback-300x112.png 300w, https://ianozsvald.com/wp-content/uploads/2020/07/europython2020_feedback-1024x382.png 1024w, https://ianozsvald.com/wp-content/uploads/2020/07/europython2020_feedback-768x286.png 768w, https://ianozsvald.com/wp-content/uploads/2020/07/europython2020_feedback-1200x448.png 1200w, https://ianozsvald.com/wp-content/uploads/2020/07/europython2020_feedback-512x191.png 512w" sizes="(max-width: 628px) 100vw, 628px" /><noscript><img loading="lazy" class="wp-image-3891 aligncenter" src="https://ianozsvald.com/wp-content/uploads/2020/07/europython2020_feedback.png" alt="Feedback from EuroPython 2020" width="628" height="234" srcset="https://ianozsvald.com/wp-content/uploads/2020/07/europython2020_feedback.png 1212w, https://ianozsvald.com/wp-content/uploads/2020/07/europython2020_feedback-300x112.png 300w, https://ianozsvald.com/wp-content/uploads/2020/07/europython2020_feedback-1024x382.png 1024w, https://ianozsvald.com/wp-content/uploads/2020/07/europython2020_feedback-768x286.png 768w, https://ianozsvald.com/wp-content/uploads/2020/07/europython2020_feedback-1200x448.png 1200w, https://ianozsvald.com/wp-content/uploads/2020/07/europython2020_feedback-512x191.png 512w" sizes="(max-width: 628px) 100vw, 628px" /></noscript></a></p>
+<p>If you&#8217;re curious about this and want to go further you might want to look at my <a href="https://ianozsvald.com/training/">upcoming training courses</a> (this includes Higher Performance, Software Engineering and Successful Data Science Projects). If you want tips and you want to stay on top of what I&#8217;m working on they join my <a href="https://ianozsvald.com/data-science-jobs/">twice-a-month mailing list</a> (see the link for a recent example post).</p>
+<p>&nbsp;</p>
+<hr>
+Ian is a Chief Interim Data Scientist via his <a href=http://morconsulting.com>Mor Consulting</a>. Sign-up for <a href=http://eepurl.com/Z44HT>Data Science tutorials in London</a> and to hear about his <a href=https://ianozsvald.com/data-science-jobs/>data science thoughts and jobs</a>. He lives in London, is walked by his high energy Springer Spaniel and is a consumer of fine coffees.</div>
+																											
+								
+																	<div class="btx-entry-link btx-p-brand-color">
+										<a href="https://ianozsvald.com/2020/07/24/making-pandas-fly-at-europython-2020/">Read More</a>
+									</div>
+								
+													</div>
+					</div>
+				</div>
+			</div>
+			</div>
+</article>
+																
+<article class="btx-entry btx-entry--standard post-3877 post type-post status-publish format-standard hentry category-data-science-2 category-python category-week-notes" style="margin-bottom:20px;" data-filter="data science, python, week notes">
+	<div class="btx-entry-inner " style="background-color:rgba(255,255,255,1);">
+				
+					<div class="btx-entry-body" >
+				<div class="btx-entry-body-inner">
+
+					<div class="btx-entry-body-wrapper">
+
+						
+						<div class="btx-entry-body-content">
+							
+																	<h4 class="btx-entry-title btx-s-text-color btx-secondary-font" style="font-size:24px; letter-spacing:0.1em;">
+										<a href="https://ianozsvald.com/2020/07/15/weekish-notes-2/">Weekish notes</a>
+									</h4>
+								
+																	<div class="btx-entry-meta btx-s-text-color btx-s-text-color btx-primary-font">
+										
+										
+																					<span class="btx-entry-category btx-s-text-color"><a href="https://ianozsvald.com/category/data-science-2/" rel="category tag">Data science</a>,&nbsp;<a href="https://ianozsvald.com/category/python/" rel="category tag">Python</a>,&nbsp;<a href="https://ianozsvald.com/category/week-notes/" rel="category tag">Week notes</a></span>
+										
+																					<span class="btx-entry-date">
+																									July 15, 2020																							</span>
+																			</div>
+								
+																																																<div class="btx-entry-excerpt"><p>I&#8217;ve recently switched back from Sourdough yeast to dried packet yeast mix, given a recipe by a colleague (thanks Nick!). I immediately set to work modifying his recipe (well, cutting out steps if we&#8217;re honest). The first loaf looked fine but was bland &#8211; I cut out too much salt. The next was really very good (&#8220;shop quality&#8221;). For the third I used off-boil water for my autolyse and I think the water was still too hot and killed some of the yeast later giving me <a href="https://twitter.com/ianozsvald/status/1283059008144904194">this dense lump</a>. Later that evening after 2.5 hours I had a luke-warm water repeat loaf and <a href="https://twitter.com/ianozsvald/status/1283165887244140545">it was brilliant</a>. I confirmed this with toast &amp; jam this morning.</p>
+<p>I&#8217;ve got quite a log of notes for my two main recipes now and will have a Sourdough on the go again this weekend.</p>
+<p>Working with my &#8220;still secret&#8221; client in a safe haven locked down remote instance I lack most of my usual tools (part by design, part my ignorance during configuration). I&#8217;ve got Vi so I&#8217;m getting my hands dirty with the <a href="https://dev.to/iggredible/using-buffers-windows-and-tabs-efficiently-in-vim-56jc">underlying operations</a> (hey! :bnext and :e work fine! Ctrl P does some sort of autocomplete! :ls lists my buffers!). This is a little painful and Apache Guacamole&#8217;s remote viewer can be troublesome (stripping £ symbols, giving me 3 different keyboard configs depending on when I login, forgetting some of my windows!) but on the whole the setup is working well.</p>
+<p>I&#8217;ve also had to get down and dirty with Git &#8211; no GitK or other fun tools. I&#8217;ve discovered some nice light git configs like &#8220;<a href="https://ma.ttias.be/pretty-git-log-in-one-line/">git logline</a>&#8221; which help with terminal based navigation in our small team.</p>
+<p><a href="https://ianozsvald.com/training/">Training classes</a> are now listed for:</p>
+<ul>
+<li><a href="https://www.eventbrite.co.uk/e/software-engineering-for-data-scientists-3-morning-virtual-event-tickets-111465787170">Software Engineering for Data Scientists</a> (September) &#8211; write strong, tested, reliable and defensible code from Notebooks to modules to improve collaboration and resilience</li>
+<li><a href="https://www.eventbrite.co.uk/e/higher-performance-python-tickets-112262839174">Higher Performance Python</a> (October) &#8211; profile CPU &amp; memory usage, speed up your code, compile where useful and improve your Pandas &amp; Dask to enable faster iteration and faster processing on your projects with minimal effort on your part</li>
+<li><a href="https://www.eventbrite.co.uk/e/successful-data-science-projects-tickets-93928096465">Successful Data Science Projects</a> (November) &#8211; discover new process &amp; tools to design data science projects that&#8217;ll run successfully, improve collaboration between your team and the wider business (this is built out of 15 years of painful lessons so you don&#8217;t have to make the same mistakes!)</li>
+</ul>
+<hr>
+Ian is a Chief Interim Data Scientist via his <a href=http://morconsulting.com>Mor Consulting</a>. Sign-up for <a href=http://eepurl.com/Z44HT>Data Science tutorials in London</a> and to hear about his <a href=https://ianozsvald.com/data-science-jobs/>data science thoughts and jobs</a>. He lives in London, is walked by his high energy Springer Spaniel and is a consumer of fine coffees.</div>
+																											
+								
+																	<div class="btx-entry-link btx-p-brand-color">
+										<a href="https://ianozsvald.com/2020/07/15/weekish-notes-2/">Read More</a>
+									</div>
+								
+													</div>
+					</div>
+				</div>
+			</div>
+			</div>
+</article>
+																
+<article class="btx-entry btx-entry--standard post-3873 post type-post status-publish format-standard hentry category-data-science-2 category-python" style="margin-bottom:20px;" data-filter="data science, python">
+	<div class="btx-entry-inner " style="background-color:rgba(255,255,255,1);">
+				
+					<div class="btx-entry-body" >
+				<div class="btx-entry-body-inner">
+
+					<div class="btx-entry-body-wrapper">
+
+						
+						<div class="btx-entry-body-content">
+							
+																	<h4 class="btx-entry-title btx-s-text-color btx-secondary-font" style="font-size:24px; letter-spacing:0.1em;">
+										<a href="https://ianozsvald.com/2020/07/05/weekish-notes/">Weekish notes</a>
+									</h4>
+								
+																	<div class="btx-entry-meta btx-s-text-color btx-s-text-color btx-primary-font">
+										
+										
+																					<span class="btx-entry-category btx-s-text-color"><a href="https://ianozsvald.com/category/data-science-2/" rel="category tag">Data science</a>,&nbsp;<a href="https://ianozsvald.com/category/python/" rel="category tag">Python</a></span>
+										
+																					<span class="btx-entry-date">
+																									July 5, 2020																							</span>
+																			</div>
+								
+																																																<div class="btx-entry-excerpt"><p>I gave <a href="https://ianozsvald.com/2020/06/23/making-pandas-fly-for-pydataamsterdam-2020/">another iteration</a> of my Making Pandas Fly talk sequence for PyDataAmsterdam recently and received some lovely postcards from attendees as a result. I&#8217;ve also had time to list new iterations of my <a href="https://ianozsvald.com/training/">training courses</a> for Higher Performance Python (October) and Software Engineering for Data Scientists (September), both will run virtually via Zoom &amp; Slack in the UK timezone.</p>
+<p>I&#8217;ve been using my <a href="https://github.com/ianozsvald/dtype_diet/">dtype_diet</a> tool to time more performance improvements with Pandas and I look forward to talking more on this <a href="https://ep2020.europython.eu/schedule/24-july">at EuroPython</a> this month.</p>
+<p>In baking news I&#8217;ve improved my <a href="https://twitter.com/ianozsvald/status/1278623998797021184">face-making on sourdough loaves</a> (but still have work to do) and I figure now is a good time to have a crack at <a href="https://twitter.com/ianozsvald/status/1279766985354752001">dried-yeast baking</a> again.</p>
+<p>&nbsp;</p>
+<hr>
+Ian is a Chief Interim Data Scientist via his <a href=http://morconsulting.com>Mor Consulting</a>. Sign-up for <a href=http://eepurl.com/Z44HT>Data Science tutorials in London</a> and to hear about his <a href=https://ianozsvald.com/data-science-jobs/>data science thoughts and jobs</a>. He lives in London, is walked by his high energy Springer Spaniel and is a consumer of fine coffees.</div>
+																											
+								
+																	<div class="btx-entry-link btx-p-brand-color">
+										<a href="https://ianozsvald.com/2020/07/05/weekish-notes/">Read More</a>
+									</div>
+								
+													</div>
+					</div>
+				</div>
+			</div>
+			</div>
+</article>
+																
+<article class="btx-entry btx-entry--standard post-3863 post type-post status-publish format-standard hentry category-data-science-2 category-high-performance-python-book category-pydata" style="margin-bottom:20px;" data-filter="data science, high performance python book, pydata">
+	<div class="btx-entry-inner " style="background-color:rgba(255,255,255,1);">
+				
+					<div class="btx-entry-body" >
+				<div class="btx-entry-body-inner">
+
+					<div class="btx-entry-body-wrapper">
+
+						
+						<div class="btx-entry-body-content">
+							
+																	<h4 class="btx-entry-title btx-s-text-color btx-secondary-font" style="font-size:24px; letter-spacing:0.1em;">
+										<a href="https://ianozsvald.com/2020/06/23/making-pandas-fly-for-pydataamsterdam-2020/">&#8220;Making Pandas Fly&#8221; for PyDataAmsterdam 2020</a>
+									</h4>
+								
+																	<div class="btx-entry-meta btx-s-text-color btx-s-text-color btx-primary-font">
+										
+										
+																					<span class="btx-entry-category btx-s-text-color"><a href="https://ianozsvald.com/category/data-science-2/" rel="category tag">Data science</a>,&nbsp;<a href="https://ianozsvald.com/category/high-performance-python-book/" rel="category tag">High Performance Python Book</a>,&nbsp;<a href="https://ianozsvald.com/category/pydata/" rel="category tag">pydata</a></span>
+										
+																					<span class="btx-entry-date">
+																									June 23, 2020																							</span>
+																			</div>
+								
+																																																<div class="btx-entry-excerpt"><p>I thank the <a href="https://amsterdam.pydata.org/">PyDataAmsterdam 2020</a> organisers for another chance to speak on <a href="https://speakerdeck.com/ianozsvald/making-pandas-fly-pydataamsterdam-2020">Making Pandas Fly (PyDataAmsterdam 2020)</a>. This variant of the talk focuses more on:</p>
+<ul>
+<li>Understanding when categories beat strings and smaller floats beat larger ones</li>
+<li>What&#8217;s happening with NumPy behind the scenes</li>
+<li>How we can save 50% of our RAM (and so fit in more data to the same machine) by checking dtypes with my <a href="https://ianozsvald.com/2020/06/02/weeknote-dtype-diet/">dtype_diet</a> tool</li>
+<li>Considering that float16 is simulated on modern hardware and so is memory efficient but slow for calculating!</li>
+<li>Tips to install <a href="https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html#recommended-dependencies">bottleneck &amp; numexpr</a> to make Pandas faster</li>
+<li>Digging into some Pandas internals when I filed a bug &#8211; and what I learned as a result (you can <a href="https://github.com/pandas-dev/pandas/issues/34773">learn too by reading the bug report</a>!)</li>
+</ul>
+<p>In a few months I&#8217;ll run another of my Higher Performance Python virtual training classes, you&#8217;re most welcome to join. You&#8217;ll find details on my very-lightly-used &#8220;<a href="https://ianozsvald.com/training/">training email list</a>&#8220;, you should join this if you&#8217;d like to hear about my upcoming training courses.</p>
+<p>I make notes on some of these topics in my irregular &#8220;weekish notes&#8221; here on the blog and in my every-2-weeks &#8220;thoughts &amp; jobs&#8221; email list. You&#8217;re welcome to <a href="https://ianozsvald.com/data-science-jobs/">join the list</a> (your email is always kept private) if getting it in your inbox is more convenient.</p>
+<p>At the end of my talks I always ask for a postcard &#8220;if you learned something&#8221;, I&#8217;ve just received the first for last week&#8217;s talk from the Netherlands &#8211; thanks!</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">Thanking Henry for sending through a lovely postcard (&quot;enthusiastic talk, very valuable insights, best presentation&quot; &#8211; humbled!) from the Netherlands after my talk <a href="https://twitter.com/pydataamsterdam?ref_src=twsrc%5Etfw">@pydataamsterdam</a> <a href="https://t.co/jPwKU880Nz">pic.twitter.com/jPwKU880Nz</a></p>
+<p>&mdash; Ian Ozsvald (@ianozsvald) <a href="https://twitter.com/ianozsvald/status/1275401574437859328?ref_src=twsrc%5Etfw">June 23, 2020</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<hr>
+Ian is a Chief Interim Data Scientist via his <a href=http://morconsulting.com>Mor Consulting</a>. Sign-up for <a href=http://eepurl.com/Z44HT>Data Science tutorials in London</a> and to hear about his <a href=https://ianozsvald.com/data-science-jobs/>data science thoughts and jobs</a>. He lives in London, is walked by his high energy Springer Spaniel and is a consumer of fine coffees.</div>
+																											
+								
+																	<div class="btx-entry-link btx-p-brand-color">
+										<a href="https://ianozsvald.com/2020/06/23/making-pandas-fly-for-pydataamsterdam-2020/">Read More</a>
+									</div>
+								
+													</div>
+					</div>
+				</div>
+			</div>
+			</div>
+</article>
+																
+<article class="btx-entry btx-entry--standard post-3857 post type-post status-publish format-standard hentry category-data-science-2 category-week-notes" style="margin-bottom:20px;" data-filter="data science, week notes">
+	<div class="btx-entry-inner " style="background-color:rgba(255,255,255,1);">
+				
+					<div class="btx-entry-body" >
+				<div class="btx-entry-body-inner">
+
+					<div class="btx-entry-body-wrapper">
+
+						
+						<div class="btx-entry-body-content">
+							
+																	<h4 class="btx-entry-title btx-s-text-color btx-secondary-font" style="font-size:24px; letter-spacing:0.1em;">
+										<a href="https://ianozsvald.com/2020/06/02/weeknote-dtype-diet/">Weeknote (dtype-diet)</a>
+									</h4>
+								
+																	<div class="btx-entry-meta btx-s-text-color btx-s-text-color btx-primary-font">
+										
+										
+																					<span class="btx-entry-category btx-s-text-color"><a href="https://ianozsvald.com/category/data-science-2/" rel="category tag">Data science</a>,&nbsp;<a href="https://ianozsvald.com/category/week-notes/" rel="category tag">Week notes</a></span>
+										
+																					<span class="btx-entry-date">
+																									June 2, 2020																							</span>
+																			</div>
+								
+																																																<div class="btx-entry-excerpt"><p>Over the weekend I hacked on <a href="https://github.com/ianozsvald/dtype_diet/">dtype_diet</a> &#8211; a tool for Pandas users that checks their DataFrame to see if smaller datatypes might be applicable. If so they&#8217;d offer no data loss and a reduction in RAM, for Categorical data there&#8217;s also the possibility of faster calculations. This tool makes no changes, it recommends the code you might copy into your project. I developed this as one of the ideas I didn&#8217;t get around to building whilst I was working on my book, but since that&#8217;s now published&#8230;</p>
+<p>Talking of which &#8211; Micha and I have cleaned up our profiles on Amazon and Goodreads for High Performance Python 2nd ed. It is a pity we can&#8217;t do any book signings at events (seeing as we won&#8217;t have physical events for a while!). One thing I might do via my &#8220;<a href="https://ianozsvald.com/data-science-jobs/">thoughts &amp; jobs</a>&#8221; email list is to organise a Friday &#8220;coffee morning&#8221; to chat with whoever turns up about high performance Python and other subjects.</p>
+<p>I&#8217;ve also learned that if I make a 1kg sourdough dough, immediately after kneading I can put 0.5kg into the fridge and 4 days later it cooks just fine. This is a nice refinement. I&#8217;m now interspersing buying fresh bread (for variety and convenience) with making my own and it feels like a more sustainable practice.</p>
+<p>All going well I&#8217;ll be talking this month at PyDataAmsterdam and next month at EuroPython on higher performance Python and Pandas, I figure the dtype_diet tool will fit in nicely with a discussion about the new Pandas dtypes and their benefits over numpy dtypes.</p>
+<hr>
+Ian is a Chief Interim Data Scientist via his <a href=http://morconsulting.com>Mor Consulting</a>. Sign-up for <a href=http://eepurl.com/Z44HT>Data Science tutorials in London</a> and to hear about his <a href=https://ianozsvald.com/data-science-jobs/>data science thoughts and jobs</a>. He lives in London, is walked by his high energy Springer Spaniel and is a consumer of fine coffees.</div>
+																											
+								
+																	<div class="btx-entry-link btx-p-brand-color">
+										<a href="https://ianozsvald.com/2020/06/02/weeknote-dtype-diet/">Read More</a>
+									</div>
+								
+													</div>
+					</div>
+				</div>
+			</div>
+			</div>
+</article>
+									</div>
+
+		
+					<div class="btx-pagination"><ul class='page-numbers'>
+	<li><span aria-current="page" class="page-numbers current">1</span></li>
+	<li><a class="page-numbers" href="https://ianozsvald.com/page/2/">2</a></li>
+	<li><a class="page-numbers" href="https://ianozsvald.com/page/3/">3</a></li>
+	<li><span class="page-numbers dots">&hellip;</span></li>
+	<li><a class="page-numbers" href="https://ianozsvald.com/page/95/">95</a></li>
+	<li><a class="next page-numbers" href="https://ianozsvald.com/page/2/"><span class="twf twf-ln-arrow-right"></span></a></li>
+</ul>
+</div>			</div>
+</div>
+									<div class="btx-col-3">
+<div class="btx-item js-item-widgets btx-widgets">
+
+			<ul class="btx-widgets-list">
+			<li id="search-3" class="widget widget_search"><form role="search" method="get" action="https://ianozsvald.com/">
+	<div class="btx-search-form">
+		<input type="text" value="" placeholder="Search" name="s" />
+	</div>
+</form>
+</li>
+<li id="custom_html-3" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="ianozsvald"><a class="LI-simple-link" href='https://uk.linkedin.com/in/mylesholman?trk=profile-badge'>Ian Ozsvald</a></div>
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script></div></li>
+<li id="media_image-10" class="widget widget_media_image"><div class="btx-heading btx-heading--default btx-heading--underline btx-p-border-border btx-s-text-border"><h3 class="btx-heading-text  btx-s-text-color">Read my book</h3></div><a href="http://www.anrdoezrs.net/click-7483262-11260198?url=http%3A%2F%2Fshop.oreilly.com%2Fproduct%2F0636920028963.do%3Fcmp%3Daf-strata-books-videos-product_cj_9781491900727_%2525zp&#038;cjsku=0636920028963" target="_blank" rel="noopener noreferrer"><img width="228" height="300" src="https://ianozsvald.com/wp-content/uploads/2018/02/chrome_2018-02-14_11-21-10-228x300.png" class="image wp-image-3377 mybook attachment-medium size-medium" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://ianozsvald.com/wp-content/uploads/2018/02/chrome_2018-02-14_11-21-10-228x300.png 228w, https://ianozsvald.com/wp-content/uploads/2018/02/chrome_2018-02-14_11-21-10-512x674.png 512w, https://ianozsvald.com/wp-content/uploads/2018/02/chrome_2018-02-14_11-21-10.png 563w" sizes="(max-width: 228px) 100vw, 228px" /></a></li>
+<li id="text-8" class="widget widget_text"><div class="btx-heading btx-heading--default btx-heading--underline btx-p-border-border btx-s-text-border"><h3 class="btx-heading-text  btx-s-text-color">AI Consulting</h3></div>			<div class="textwidget"><p><span id="media_image-10"><a href="https://morconsulting.com/"><img loading="lazy"   style="display:none"  class="crazy_lazy aligncenter mylogo size-medium wp-image-3525" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="   data-src="https://ianozsvald.com/wp-content/uploads/2018/04/logo-300x231.jpg"  alt="" width="300" height="231" style="border:0;" /><noscript><img loading="lazy" class="aligncenter mylogo size-medium wp-image-3525" src="https://ianozsvald.com/wp-content/uploads/2018/04/logo-300x231.jpg" alt="" width="300" height="231" style="border:0;" srcset="https://ianozsvald.com/wp-content/uploads/2018/04/logo-300x231.jpg 300w, https://ianozsvald.com/wp-content/uploads/2018/04/logo.jpg 420w" sizes="(max-width: 300px) 100vw, 300px" /></noscript></a></span></p>
+<p><strong>Mor Consulting Ltd.</strong> is an A.I. focused consultancy offering strategic research and development owned by Ian Ozsvald, based in London (UK).</p>
+</div>
+		</li>
+<li id="text-5" class="widget widget_text"><div class="btx-heading btx-heading--default btx-heading--underline btx-p-border-border btx-s-text-border"><h3 class="btx-heading-text  btx-s-text-color">Co-organiser</h3></div>			<div class="textwidget"><p><a href="https://london.pydata.org/"><img loading="lazy"   style="display:none"  class="crazy_lazy aligncenter size-medium wp-image-3379" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="   data-src="https://ianozsvald.com/wp-content/uploads/2018/02/chrome_2018-02-17_16-49-17-300x132.png"  alt="" width="300" height="132" /><noscript><img loading="lazy" class="aligncenter size-medium wp-image-3379" src="https://ianozsvald.com/wp-content/uploads/2018/02/chrome_2018-02-17_16-49-17-300x132.png" alt="" width="300" height="132" srcset="https://ianozsvald.com/wp-content/uploads/2018/02/chrome_2018-02-17_16-49-17-300x132.png 300w, https://ianozsvald.com/wp-content/uploads/2018/02/chrome_2018-02-17_16-49-17.png 425w" sizes="(max-width: 300px) 100vw, 300px" /></noscript></a></p>
+<p><strong>PyData London</strong> provides a forum for the international community of users and developers of data analysis tools to share ideas and learn from each other.</p>
+</div>
+		</li>
+<li id="bateaux_widget_post-1" class="widget btx-widget btx-widget-blog"><div class="btx-heading btx-heading--default btx-heading--underline btx-p-border-border btx-s-text-border"><h3 class="btx-heading-text  btx-s-text-color">Trending Now</h3></div><div class="btx-widget-item number-style"><a href="https://ianozsvald.com/?post_type=post&#038;p=3885" class="btx-media btx-p-border-border btx-media-flag btx-left-align"><div class="btx-widget-index"><div class="btx-widget-number btx-p-bg-bg btx-p-border-border btx-s-text-color">1</div></div><div class="btx-widget-body btx-media-body"><div class="btx-widget-title">&#8220;Making Pandas Fly&#8221; at EuroPython 2020</div><div class="btx-widget-category">High Performance Python Book, pydata, Python</div></div></a><a href="https://ianozsvald.com/?post_type=post&#038;p=3877" class="btx-media btx-p-border-border btx-media-flag btx-left-align"><div class="btx-widget-index"><div class="btx-widget-number btx-p-bg-bg btx-p-border-border btx-s-text-color">2</div></div><div class="btx-widget-body btx-media-body"><div class="btx-widget-title">Weekish notes</div><div class="btx-widget-category">Data science, Python, Week notes</div></div></a><a href="https://ianozsvald.com/?post_type=post&#038;p=3873" class="btx-media btx-p-border-border btx-media-flag btx-left-align"><div class="btx-widget-index"><div class="btx-widget-number btx-p-bg-bg btx-p-border-border btx-s-text-color">3</div></div><div class="btx-widget-body btx-media-body"><div class="btx-widget-title">Weekish notes</div><div class="btx-widget-category">Data science, Python</div></div></a><a href="https://ianozsvald.com/?post_type=post&#038;p=3863" class="btx-media btx-p-border-border btx-media-flag btx-left-align"><div class="btx-widget-index"><div class="btx-widget-number btx-p-bg-bg btx-p-border-border btx-s-text-color">4</div></div><div class="btx-widget-body btx-media-body"><div class="btx-widget-title">&#8220;Making Pandas Fly&#8221; for PyDataAmsterdam 2020</div><div class="btx-widget-category">Data science, High Performance Python Book, pydata</div></div></a><a href="https://ianozsvald.com/?post_type=post&#038;p=3857" class="btx-media btx-p-border-border btx-media-flag btx-left-align"><div class="btx-widget-index"><div class="btx-widget-number btx-p-bg-bg btx-p-border-border btx-s-text-color">5</div></div><div class="btx-widget-body btx-media-body"><div class="btx-widget-title">Weeknote (dtype-diet)</div><div class="btx-widget-category">Data science, Week notes</div></div></a></div></li>
+<li id="tag_cloud-3" class="widget widget_tag_cloud"><div class="btx-heading btx-heading--default btx-heading--underline btx-p-border-border btx-s-text-border"><h3 class="btx-heading-text  btx-s-text-color">Tags</h3></div><div class="tagcloud"><a href="https://ianozsvald.com/tag/aim/" class="tag-cloud-link tag-link-169 tag-link-position-1" style="font-size: 8pt;" aria-label="Aim (5 items)">Aim</a>
+<a href="https://ianozsvald.com/tag/api/" class="tag-cloud-link tag-link-421 tag-link-position-2" style="font-size: 11.777777777778pt;" aria-label="Api (8 items)">Api</a>
+<a href="https://ianozsvald.com/tag/artificial-intelligence/" class="tag-cloud-link tag-link-323 tag-link-position-3" style="font-size: 15.333333333333pt;" aria-label="Artificial Intelligence (12 items)">Artificial Intelligence</a>
+<a href="https://ianozsvald.com/tag/blog/" class="tag-cloud-link tag-link-319 tag-link-position-4" style="font-size: 10.666666666667pt;" aria-label="Blog (7 items)">Blog</a>
+<a href="https://ianozsvald.com/tag/brighton/" class="tag-cloud-link tag-link-252 tag-link-position-5" style="font-size: 9.5555555555556pt;" aria-label="Brighton (6 items)">Brighton</a>
+<a href="https://ianozsvald.com/tag/conferences/" class="tag-cloud-link tag-link-217 tag-link-position-6" style="font-size: 8pt;" aria-label="Conferences (5 items)">Conferences</a>
+<a href="https://ianozsvald.com/tag/cookbook/" class="tag-cloud-link tag-link-833 tag-link-position-7" style="font-size: 10.666666666667pt;" aria-label="Cookbook (7 items)">Cookbook</a>
+<a href="https://ianozsvald.com/tag/demo/" class="tag-cloud-link tag-link-223 tag-link-position-8" style="font-size: 12.888888888889pt;" aria-label="Demo (9 items)">Demo</a>
+<a href="https://ianozsvald.com/tag/ebook/" class="tag-cloud-link tag-link-183 tag-link-position-9" style="font-size: 8pt;" aria-label="Ebook (5 items)">Ebook</a>
+<a href="https://ianozsvald.com/tag/email/" class="tag-cloud-link tag-link-203 tag-link-position-10" style="font-size: 9.5555555555556pt;" aria-label="Email (6 items)">Email</a>
+<a href="https://ianozsvald.com/tag/emily/" class="tag-cloud-link tag-link-880 tag-link-position-11" style="font-size: 14.666666666667pt;" aria-label="Emily (11 items)">Emily</a>
+<a href="https://ianozsvald.com/tag/face-detection/" class="tag-cloud-link tag-link-800 tag-link-position-12" style="font-size: 9.5555555555556pt;" aria-label="Face Detection (6 items)">Face Detection</a>
+<a href="https://ianozsvald.com/tag/few-days/" class="tag-cloud-link tag-link-970 tag-link-position-13" style="font-size: 10.666666666667pt;" aria-label="Few Days (7 items)">Few Days</a>
+<a href="https://ianozsvald.com/tag/google/" class="tag-cloud-link tag-link-141 tag-link-position-14" style="font-size: 19.111111111111pt;" aria-label="Google (18 items)">Google</a>
+<a href="https://ianozsvald.com/tag/high-performance/" class="tag-cloud-link tag-link-402 tag-link-position-15" style="font-size: 15.333333333333pt;" aria-label="High Performance (12 items)">High Performance</a>
+<a href="https://ianozsvald.com/tag/iphone/" class="tag-cloud-link tag-link-342 tag-link-position-16" style="font-size: 19.555555555556pt;" aria-label="Iphone (19 items)">Iphone</a>
+<a href="https://ianozsvald.com/tag/kyran/" class="tag-cloud-link tag-link-165 tag-link-position-17" style="font-size: 15.333333333333pt;" aria-label="Kyran (12 items)">Kyran</a>
+<a href="https://ianozsvald.com/tag/laptop/" class="tag-cloud-link tag-link-282 tag-link-position-18" style="font-size: 10.666666666667pt;" aria-label="Laptop (7 items)">Laptop</a>
+<a href="https://ianozsvald.com/tag/linux/" class="tag-cloud-link tag-link-62 tag-link-position-19" style="font-size: 10.666666666667pt;" aria-label="Linux (7 items)">Linux</a>
+<a href="https://ianozsvald.com/tag/london/" class="tag-cloud-link tag-link-318 tag-link-position-20" style="font-size: 10.666666666667pt;" aria-label="London (7 items)">London</a>
+<a href="https://ianozsvald.com/tag/lt/" class="tag-cloud-link tag-link-61 tag-link-position-21" style="font-size: 8pt;" aria-label="Lt (5 items)">Lt</a>
+<a href="https://ianozsvald.com/tag/map/" class="tag-cloud-link tag-link-451 tag-link-position-22" style="font-size: 9.5555555555556pt;" aria-label="Map (6 items)">Map</a>
+<a href="https://ianozsvald.com/tag/natural-language-processing/" class="tag-cloud-link tag-link-667 tag-link-position-23" style="font-size: 13.777777777778pt;" aria-label="Natural Language Processing (10 items)">Natural Language Processing</a>
+<a href="https://ianozsvald.com/tag/nbsp/" class="tag-cloud-link tag-link-1196 tag-link-position-24" style="font-size: 12.888888888889pt;" aria-label="Nbsp (9 items)">Nbsp</a>
+<a href="https://ianozsvald.com/tag/nltk/" class="tag-cloud-link tag-link-1170 tag-link-position-25" style="font-size: 9.5555555555556pt;" aria-label="Nltk (6 items)">Nltk</a>
+<a href="https://ianozsvald.com/tag/numpy/" class="tag-cloud-link tag-link-1237 tag-link-position-26" style="font-size: 9.5555555555556pt;" aria-label="Numpy (6 items)">Numpy</a>
+<a href="https://ianozsvald.com/tag/optical-character-recognition/" class="tag-cloud-link tag-link-717 tag-link-position-27" style="font-size: 16.888888888889pt;" aria-label="Optical Character Recognition (14 items)">Optical Character Recognition</a>
+<a href="https://ianozsvald.com/tag/pycon/" class="tag-cloud-link tag-link-1380 tag-link-position-28" style="font-size: 16.888888888889pt;" aria-label="Pycon (14 items)">Pycon</a>
+<a href="https://ianozsvald.com/tag/python/" class="tag-cloud-link tag-link-2489 tag-link-position-29" style="font-size: 22pt;" aria-label="Python (25 items)">Python</a>
+<a href="https://ianozsvald.com/tag/python-mailing/" class="tag-cloud-link tag-link-1609 tag-link-position-30" style="font-size: 9.5555555555556pt;" aria-label="Python Mailing (6 items)">Python Mailing</a>
+<a href="https://ianozsvald.com/tag/python-tutorial/" class="tag-cloud-link tag-link-1244 tag-link-position-31" style="font-size: 10.666666666667pt;" aria-label="Python Tutorial (7 items)">Python Tutorial</a>
+<a href="https://ianozsvald.com/tag/robots/" class="tag-cloud-link tag-link-84 tag-link-position-32" style="font-size: 13.777777777778pt;" aria-label="Robots (10 items)">Robots</a>
+<a href="https://ianozsvald.com/tag/running/" class="tag-cloud-link tag-link-510 tag-link-position-33" style="font-size: 11.777777777778pt;" aria-label="Running (8 items)">Running</a>
+<a href="https://ianozsvald.com/tag/santiago/" class="tag-cloud-link tag-link-1327 tag-link-position-34" style="font-size: 11.777777777778pt;" aria-label="Santiago (8 items)">Santiago</a>
+<a href="https://ianozsvald.com/tag/seb/" class="tag-cloud-link tag-link-211 tag-link-position-35" style="font-size: 10.666666666667pt;" aria-label="Seb (7 items)">Seb</a>
+<a href="https://ianozsvald.com/tag/skiff/" class="tag-cloud-link tag-link-35 tag-link-position-36" style="font-size: 13.777777777778pt;" aria-label="Skiff (10 items)">Skiff</a>
+<a href="https://ianozsvald.com/tag/slides/" class="tag-cloud-link tag-link-774 tag-link-position-37" style="font-size: 9.5555555555556pt;" aria-label="Slides (6 items)">Slides</a>
+<a href="https://ianozsvald.com/tag/startups/" class="tag-cloud-link tag-link-1438 tag-link-position-38" style="font-size: 9.5555555555556pt;" aria-label="Startups (6 items)">Startups</a>
+<a href="https://ianozsvald.com/tag/tweet/" class="tag-cloud-link tag-link-545 tag-link-position-39" style="font-size: 15.333333333333pt;" aria-label="Tweet (12 items)">Tweet</a>
+<a href="https://ianozsvald.com/tag/tweets/" class="tag-cloud-link tag-link-393 tag-link-position-40" style="font-size: 14.666666666667pt;" aria-label="Tweets (11 items)">Tweets</a>
+<a href="https://ianozsvald.com/tag/twitter/" class="tag-cloud-link tag-link-355 tag-link-position-41" style="font-size: 13.777777777778pt;" aria-label="Twitter (10 items)">Twitter</a>
+<a href="https://ianozsvald.com/tag/ubuntu/" class="tag-cloud-link tag-link-2491 tag-link-position-42" style="font-size: 10.666666666667pt;" aria-label="Ubuntu (7 items)">Ubuntu</a>
+<a href="https://ianozsvald.com/tag/ups/" class="tag-cloud-link tag-link-178 tag-link-position-43" style="font-size: 11.777777777778pt;" aria-label="Ups (8 items)">Ups</a>
+<a href="https://ianozsvald.com/tag/vimeo/" class="tag-cloud-link tag-link-33 tag-link-position-44" style="font-size: 10.666666666667pt;" aria-label="Vimeo (7 items)">Vimeo</a>
+<a href="https://ianozsvald.com/tag/wikipedia/" class="tag-cloud-link tag-link-443 tag-link-position-45" style="font-size: 10.666666666667pt;" aria-label="Wikipedia (7 items)">Wikipedia</a></div>
+</li>
+		</ul>
+	</div>
+</div>
+							</div>
+							</div>
+			</div>
+</div>
+							</div>
+		</div>
+
+		
+	</article>
+</main>
+
+<script type='text/javascript'>
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-4524704-1']);
+_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+
+			<footer class="btx-footer btx-dark-scheme type-footer-bottombar">
+
+									<div class="btx-footer-widgets btx-left-align">
+						<div class="btx-container">
+							<div class="btx-footer-widgets-content">
+								<div class="btx-row">
+
+																														<div class="btx-footer-column btx-p-border-border btx-col-3">
+												<div class="btx-widgets">
+													<ul class="btx-widgets-list">
+														<li id="nav_menu-4" class="widget widget_nav_menu"><div class="btx-heading btx-heading--default btx-heading--underline btx-p-border-border btx-s-text-border"><h3 class="btx-heading-text  btx-s-text-color">Navigation</h3></div><ul id="menu-main-2" class="btx-menu"><li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3414"><a href="https://ianozsvald.com/coaching/">Coaching</a></li><li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3415"><a href="https://ianozsvald.com/training/">Training</a></li><li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3416"><a href="https://ianozsvald.com/data-science-jobs/">Data Science Jobs</a></li><li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3445"><a href="https://ianozsvald.com/products/">Products</a></li><li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3444"><a href="https://ianozsvald.com/consulting/">Consulting</a></li><li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3424"><a href="https://ianozsvald.com/about-me/">About Ian</a></li></ul></li>
+													</ul>
+												</div>
+											</div>
+																																								<div class="btx-footer-column btx-p-border-border btx-col-3">
+												<div class="btx-widgets">
+													<ul class="btx-widgets-list">
+														<li id="bateaux_widget_post-2" class="widget btx-widget btx-widget-blog"><div class="btx-heading btx-heading--default btx-heading--underline btx-p-border-border btx-s-text-border"><h3 class="btx-heading-text  btx-s-text-color">Recent Posts</h3></div><div class="btx-widget-item no-media-img"><a href="https://ianozsvald.com/?post_type=post&#038;p=3885" class="btx-media btx-p-border-border btx-media-flag btx-left-align"><div class="btx-widget-body btx-media-body"><div class="btx-widget-title">&#8220;Making Pandas Fly&#8221; at EuroPython 2020</div><div class="btx-widget-category">High Performance Python Book, pydata, Python</div></div></a><a href="https://ianozsvald.com/?post_type=post&#038;p=3877" class="btx-media btx-p-border-border btx-media-flag btx-left-align"><div class="btx-widget-body btx-media-body"><div class="btx-widget-title">Weekish notes</div><div class="btx-widget-category">Data science, Python, Week notes</div></div></a><a href="https://ianozsvald.com/?post_type=post&#038;p=3873" class="btx-media btx-p-border-border btx-media-flag btx-left-align"><div class="btx-widget-body btx-media-body"><div class="btx-widget-title">Weekish notes</div><div class="btx-widget-category">Data science, Python</div></div></a></div></li>
+													</ul>
+												</div>
+											</div>
+																																								<div class="btx-footer-column btx-p-border-border btx-col-3">
+												<div class="btx-widgets">
+													<ul class="btx-widgets-list">
+														<li id="text-4" class="widget widget_text"><div class="btx-heading btx-heading--default btx-heading--underline btx-p-border-border btx-s-text-border"><h3 class="btx-heading-text  btx-s-text-color">About Ian</h3></div>			<div class="textwidget">Ian provides interim Chief Data Science consulting, team coaching, product licensing and IP development using the Python data science (“PyData”) stack.
+<br /><br />
+<span class="twf twf-envelope" ></span>&nbsp;&nbsp; Ian[at]MorConsulting.com</div>
+		</li>
+													</ul>
+												</div>
+											</div>
+																																								<div class="btx-footer-column btx-p-border-border btx-col-3">
+												<div class="btx-widgets">
+													<ul class="btx-widgets-list">
+														<li id="bateaux_widget_html-2" class="widget btx-widget btx-widget-html"><a class="twitter-timeline" data-width="300" data-height="320" data-theme="dark" data-link-color="#2B7BB9" href="https://twitter.com/ianozsvald?ref_src=twsrc%5Etfw">Tweets by ianozsvald</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></li>
+													</ul>
+												</div>
+											</div>
+																			
+								</div>
+							</div>
+						</div>
+					</div>
+				
+									<div class="btx-bottombar btx-p-border-border">
+						<div class="btx-container">
+							<div class="btx-bottombar-content btx-p-border-border">
+
+																											<div class="btx-widgets left">
+
+																							<div class="widget btx-widget-text">© 2018 Ian Ozsvald. All rights reserved.</div>
+											
+											
+											
+										</div>
+																																				<div class="btx-widgets right">
+
+											
+											
+																							<div class="widget btx-widget-social">
+													<div class="btx-social btx-social--fill">
+														<div class="btx-social-inner">
+																													</div>
+													</div>
+												</div>
+											
+										</div>
+																																		
+							</div>
+						</div>
+					</div>
+				
+			</footer>
+
+		</div>
+		<script type='text/javascript' src='https://ianozsvald.com/wp-includes/js/comment-reply.min.js' id='comment-reply-js'></script>
+<script type='text/javascript' id='mediaelement-core-js-before'>
+var mejsL10n = {"language":"en","strings":{"mejs.download-file":"Download File","mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Fullscreen","mejs.play":"Play","mejs.pause":"Pause","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.live-broadcast":"Live Broadcast","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+</script>
+<script type='text/javascript' src='https://ianozsvald.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js' id='mediaelement-core-js'></script>
+<script type='text/javascript' src='https://ianozsvald.com/wp-includes/js/mediaelement/mediaelement-migrate.min.js' id='mediaelement-migrate-js'></script>
+<script type='text/javascript' id='mediaelement-js-extra'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ianozsvald.com/wp-includes/js/mediaelement/wp-mediaelement.min.js' id='wp-mediaelement-js'></script>
+<script type='text/javascript' src='https://ianozsvald.com/wp-includes/js/hoverIntent.min.js' id='hoverIntent-js'></script>
+<script type='text/javascript' src='https://ianozsvald.com/wp-includes/js/jquery/ui/widget.min.js' id='jquery-ui-widget-js'></script>
+<script type='text/javascript' src='https://ianozsvald.com/wp-content/themes/bateaux/dist/js/main-vendors.min.js' id='bateaux-main-vendors-js'></script>
+<script type='text/javascript' id='bateaux-js-extra'>
+/* <![CDATA[ */
+var BateauxOptions = {"ajax_url":"https:\/\/ianozsvald.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ianozsvald.com/wp-content/themes/bateaux/dist/js/main.min.js' id='bateaux-js'></script>
+<script type='text/javascript' id='expanding-archives-frontend-js-extra'>
+/* <![CDATA[ */
+var expanding_archives = {"ajaxurl":"https:\/\/ianozsvald.com\/wp-admin\/admin-ajax.php","nonce":"6e90869287"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ianozsvald.com/wp-content/plugins/expanding-archives/assets/js/expanding-archives.min.js' id='expanding-archives-frontend-js'></script>
+<script type='text/javascript' src='https://ianozsvald.com/wp-content/plugins/crazy-lazy/js/jquery.unveil.min.js' id='unveil.js-js'></script>
+<script type='text/javascript' src='https://ianozsvald.com/wp-includes/js/wp-embed.min.js' id='wp-embed-js'></script>
+	</body>
+</html>
